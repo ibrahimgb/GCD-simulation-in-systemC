@@ -1,1 +1,1 @@
-# implementing-pgcd-using-system-c
+# GCD-simulation-in-systemC
